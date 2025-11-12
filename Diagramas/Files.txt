@@ -1,1 +1,3 @@
 Novo registro adicionado via github
+Teste para exercicios de fetch ....
+
