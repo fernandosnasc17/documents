@@ -1,4 +1,5 @@
 Novo registro adicionado via github
 Teste para exercicios de fetch ....
 Nova alteração no arquivo.
+Alteração do arquivo local. vamos subir a alteração via comando git.
 
