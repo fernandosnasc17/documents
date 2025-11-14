@@ -21,4 +21,5 @@ Linha lixo03
 Linha lixo04
 
 Novas linhas ciradas para serem deletadas commit04
+Apagando as linhas Lixo - commit05
 
