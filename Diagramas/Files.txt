@@ -6,3 +6,4 @@ Alteração do arquivo local. vamos subir a alteração via comando git.
 Nova tag criada, commit pos tag
 
 Criando uma branch a partir de uma atualização do arquivo.
+Atualizando o arquivo local, usando a branch criada.
