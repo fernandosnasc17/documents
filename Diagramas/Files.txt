@@ -7,3 +7,8 @@ Nova tag criada, commit pos tag
 
 Criando uma branch a partir de uma atualização do arquivo.
 Atualizando o arquivo local, usando a branch criada.
+
+Neste arquivo vamos fazer exercicios de atualizações do arquivo a partir de uma branchVamos criara diversas linhas de texto
+para que possamos commitar na nossa branch o github
+
+Agora temos ... um commit02
