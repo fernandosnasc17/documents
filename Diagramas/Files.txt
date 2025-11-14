@@ -14,3 +14,11 @@ para que possamos commitar na nossa branch o github
 
 Linha de cima deletada
 Removendo o texto do commit 02 e criando o commit 03...
+
+Linha lixo01
+Linha lixo02
+Linha lixo03
+Linha lixo04
+
+Novas linhas ciradas para serem deletadas commit04
+
