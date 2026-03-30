@@ -1,4 +1,4 @@
-# [cite_start]mesha. technology [cite: 1]
+# 
 ## [cite_start]Proposta Comercial Estimada [cite: 2]
 
 [cite_start]**Informações sobre o documento** [cite: 8]
@@ -16,7 +16,7 @@
 ---
 
 [cite_start]**Produto:** gBolsas 2.0 (Hub de Bolsas) [cite: 20]
-[cite_start]**Proponente:** mesha. technology [cite: 20]
+[cite_start]**Proponente:** 
 [cite_start]**Cliente:** Cimatec - Núcleo de Bolsas [cite: 20]
 [cite_start]**N° Chamado:** 001 [cite: 20]
 
